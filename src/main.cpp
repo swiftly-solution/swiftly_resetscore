@@ -47,7 +47,7 @@ void OnPluginStop()
 
 const char *GetPluginAuthor()
 {
-    return "Swiftly Solutions";
+    return "Swiftly Solution";
 }
 
 const char *GetPluginVersion()
