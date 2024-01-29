@@ -1,0 +1,10 @@
+{
+    "resetscore.message": {
+        "en": "{lime}[Swiftly] {default}You succesfully reseted your score!",
+        "ro": "{lime}[Swiftly] Ți-ai resetat scorul cu succes!"
+    },
+    "already_resetted.message": {
+        "en": "{lime}[Swiftly] {default}Your score is already set on {lime}0{default}.",
+        "ro": "{lime}[Swiftly] {default}Scorul tău este deja setat pe {lime}0{default}."
+    }
+}
