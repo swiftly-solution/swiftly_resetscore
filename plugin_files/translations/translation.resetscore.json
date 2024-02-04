@@ -1,10 +1,44 @@
 {
     "resetscore.message": {
-        "en": "{lime}[Swiftly] {default}You succesfully reseted your score!",
-        "ro": "{lime}[Swiftly] Ți-ai resetat scorul cu succes!"
+        "en": "{lime}[Swiftly] {default}You successfully reset your score!",
+        "ro": "{lime}[Swiftly] Ți-ai resetat scorul cu succes!",
+        "ua": "{lime}[Swiftly] {default}Ви успішно скинули свій рахунок!",
+        "fr": "{lime}[Swiftly] {default}Vous avez réussi à réinitialiser votre score!",
+        "es": "{lime}[Swiftly] {default}Has reiniciado tu puntuación con éxito!",
+        "de": "{lime}[Swiftly] {default}Sie haben Ihren Punktestand erfolgreich zurückgesetzt!",
+        "it": "{lime}[Swiftly] {default}Hai resettato il tuo punteggio con successo!",
+        "pt": "{lime}[Swiftly] {default}Você redefiniu sua pontuação com sucesso!",
+        "nl": "{lime}[Swiftly] {default}Je hebt je score succesvol gereset!",
+        "ru": "{lime}[Swiftly] {default}Вы успешно сбросили свой счет!",
+        "zh": "{lime}[Swiftly] {default}您已成功重置分数！",
+        "ja": "{lime}[Swiftly] {default}スコアを正常にリセットしました！",
+        "ko": "{lime}[Swiftly] {default}스코어를 성공적으로 재설정했습니다!",
+        "ar": "{lime}[Swiftly] {default}لقد قمت بإعادة تعيين نقاطك بنجاح!",
+        "tr": "{lime}[Swiftly] {default}Başarıyla skorunuzu sıfırladınız!",
+        "sv": "{lime}[Swiftly] {default}Du har framgångsrikt återställt din poäng!",
+        "fi": "{lime}[Swiftly] {default}Nollasit pisteet onnistuneesti!",
+        "pl": "{lime}[Swiftly] {default}Pomyślnie zresetowano twój wynik!",
+        "vi": "{lime}[Swiftly] {default}Bạn đã đặt lại điểm của mình thành công!"
     },
     "already_resetted.message": {
-        "en": "{lime}[Swiftly] {default}Your score is already set on {lime}0{default}.",
-        "ro": "{lime}[Swiftly] {default}Scorul tău este deja setat pe {lime}0{default}."
+        "en": "{lime}[Swiftly] {default}Your score is already set to {lime}0{default}.",
+        "ro": "{lime}[Swiftly] {default}Scorul tău este deja setat pe {lime}0{default}.",
+        "ua": "{lime}[Swiftly] {default}Ваш рахунок вже встановлено на {lime}0{default}.",
+        "fr": "{lime}[Swiftly] {default}Votre score est déjà réglé sur {lime}0{default}.",
+        "es": "{lime}[Swiftly] {default}Tu puntuación ya está establecida en {lime}0{default}.",
+        "de": "{lime}[Swiftly] {default}Ihr Punktestand ist bereits auf {lime}0{default} gesetzt.",
+        "it": "{lime}[Swiftly] {default}Il tuo punteggio è già impostato su {lime}0{default}.",
+        "pt": "{lime}[Swiftly] {default}Sua pontuação já está definida como {lime}0{default}.",
+        "nl": "{lime}[Swiftly] {default}Je score staat al op {lime}0{default}.",
+        "ru": "{lime}[Swiftly] {default}Ваш счет уже установлен на {lime}0{default}.",
+        "zh": "{lime}[Swiftly] {default}您的分数已经设定为 {lime}0{default}。",
+        "ja": "{lime}[Swiftly] {default}スコアは既に {lime}0{default} に設定されています。",
+        "ko": "{lime}[Swiftly] {default}이미 스코어가 {lime}0{default}으로 설정되어 있습니다.",
+        "ar": "{lime}[Swiftly] {default}نقاطك مضبوطة بالفعل على {lime}0{default}.",
+        "tr": "{lime}[Swiftly] {default}Skorunuz zaten {lime}0{default} olarak ayarlı.",
+        "sv": "{lime}[Swiftly] {default}Din poäng är redan inställd på {lime}0{default}.",
+        "fi": "{lime}[Swiftly] {default}Pisteesi on jo asetettu arvoon {lime}0{default}.",
+        "pl": "{lime}[Swiftly] {default}Twój wynik jest już ustawiony na {lime}0{default}.",
+        "vi": "{lime}[Swiftly] {default}Điểm của bạn đã được đặt thành {lime}0{default} rồi."
     }
 }
